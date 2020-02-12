@@ -6,14 +6,15 @@ Cukup 1 masalah saja.
 Lakukan Fork repositori ini, bukan clone.
 
 # Problem
-(tulis masalah disini)
+Ekstrakurikuler yang kurang peminat salah satunya KIR
 
 # Solution
-(tulis solusi disini)
+Menyebarkan / mempromosikan ekstrakurikuler dengan membuat website tentang ekstrakurikuler
 
 
 ## Author
-by (tulis nama kamu) 
+by Bonaventura PTD 
+8D 
 
 
 cc: SMPN 1 Semarang
